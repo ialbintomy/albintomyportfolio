@@ -28,7 +28,7 @@ const homepage = () => {
         <div className="hero-content">
             <h1>Albin Tomy</h1>
             <p>A dynamic full stack developer with a proven track record at Zpacetech Technologies, Kozhikode excelling in React.js,Node.js,MongoDB and Express.js to deliver efficient and responsive web designs.I am also skilled in fostering team collaboration and leveraging these tools to develop innovative web applications.</p>
-            <Link to="contact" className="cta-btn"smooth={true}duration={500}>Hire Me</Link>
+            <Link to="contact" className="cta-btn"smooth={true}duration={500}>Mail</Link>
         </div>
     </section>
 
@@ -75,7 +75,6 @@ const homepage = () => {
             <h3>Backend</h3>
             <p>Node.js, MongoDB, Express, Python, C, C++</p>
             </div>
-            
         </div>
     </section>
 
