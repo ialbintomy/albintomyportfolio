@@ -27,7 +27,7 @@ const homepage = () => {
     <section className="hero" id="home">
         <div className="hero-content">
             <h1>Albin Tomy</h1>
-            <p>A dynamic full stack developer with a proven track record at Zpacetech Technologies, Kozhikode excelling in React.js,Node.js,MongoDB and Express.js to deliver efficient and responsive web designs.I am also skilled in fostering team collaboration and leveraging these tools to develop innovative web applications.</p>
+            <p>A dynamic front-end developer with a proven track record at Zpacetech Technologies, Kozhikode excelling in React.js,Node.js,MongoDB and Express.js to deliver efficient and responsive web designs.I am also skilled in fostering team collaboration and leveraging these tools to develop innovative web applications.</p>
             <Link to="contact" className="cta-btn"smooth={true}duration={500}>Mail</Link>
         </div>
     </section>
@@ -68,12 +68,12 @@ const homepage = () => {
             <div className="skill-card">
             <i class="fa-solid fa-code"></i>
             <h3>Frontend</h3>
-            <p>HTML5, CSS3, JavaScript, React</p>
+            <p>HTML5, CSS3, JavaScript(ES6+), React.js, Git, GitHub, VSCode, Debugging</p>
             </div>
             <div className="skill-card">
             <i class="fa-solid fa-globe"></i>
             <h3>Backend</h3>
-            <p>Node.js, MongoDB, Express, Python, C, C++</p>
+            <p>Node.js, MongoDB, Express.js, Python, C, C++, NoSQL</p>
             </div>
         </div>
     </section>
